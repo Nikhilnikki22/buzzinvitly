@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "variationData": {
+        "type": "ReplenCard",
+        "ML_product": {
+          "sku": "2611106",
+          "productName": "Rare Beauty Soft Pinch Liquid Blush",
+          "productUrl": "https://www.sephora.com/product/soft-pinch-liquid-blush-P464908",
+          "imageUrl": "https://www.sephora.com/productimages/sku/s2611106-main-zoom.jpg",
+          "inStock": true,
+          "brandName": "Rare Beauty"
+        }
+      },
+      "p13n": {
+        "context": "11AzftUPO2TYEflDauZRlU",
+        "abTestId": null,
+        "abTestEndDate": null,
+        "startDate": null,
+        "endDate": null,
+        "caching": true,
+        "isControl": false,
+        IsReplen_Eligible= true
+        "isAbTest": false,
+        "isDefault": flase
+      },
+      "context": "11AzftUPO2TYEflDauZRlU"
+    }
+  ],
+  "status": 0
+}
+
